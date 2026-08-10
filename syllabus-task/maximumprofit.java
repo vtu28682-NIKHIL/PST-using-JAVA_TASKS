@@ -23,7 +23,7 @@ public class maximumprofit {
             }
         }
 
-        System.out.println(maxSum);
+        System.out.println("max sum is : " + maxSum);
 
         sc.close();
     }
