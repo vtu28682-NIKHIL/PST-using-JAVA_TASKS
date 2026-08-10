@@ -17,6 +17,6 @@ public class countmarks {
 
    public static void main(String[] var0) {
       int[] var1 = new int[]{45, 56, 75, 34, 75, 100, 75};
-      System.out.println(countmarksofstudent(var1));
+      System.out.println("the count of student marks is : " + countmarksofstudent(var1));
    }
 }
