@@ -13,6 +13,6 @@ public class avg {
     public static void main(String[] args) {
         int marks[] = {23, 45, 65, 70};
 
-        System.out.println(avgmarks(marks));
+        System.out.println("average marks is : " + avgmarks(marks));
     }
 }
