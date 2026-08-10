@@ -24,7 +24,6 @@ public class streamanalyticssystem {
         List<Reading> readings = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-
             String sensorId = sc.next();
             double temperature = sc.nextDouble();
 
