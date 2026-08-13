@@ -33,12 +33,3 @@ public class JavaArrayList {
     }
 }
 
-/*
-OUTPUT:
-Query Results:
-74
-52
-37
-ERROR!
-ERROR!
-*/
