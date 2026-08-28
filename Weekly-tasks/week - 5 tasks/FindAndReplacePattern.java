@@ -8,7 +8,7 @@ public class FindAndReplacePattern {
             if (matches(word, pattern)) {
                 result.add(word);
             }
-        }
+       }
 
         return result;
     }
@@ -18,7 +18,7 @@ public class FindAndReplacePattern {
         HashMap<Character, Character> map2 = new HashMap<>();
 
         for (int i = 0; i < word.length(); i++) {
-            char a = word.charAt(i);
+            char a = word.charAt(i);  
             char b = pattern.charAt(i);
 
             if (map1.containsKey(a) && map1.get(a) != b) {
