@@ -28,7 +28,7 @@ public class FindAndReplacePattern {
             if (map2.containsKey(b) && map2.get(b) != a) {
                 return false;
             }
-
+            
             map1.put(a, b);
             map2.put(b, a);
         }
