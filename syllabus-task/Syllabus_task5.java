@@ -1,4 +1,3 @@
-package Syllabus_Tasks;
 
 import java.util.*;
 
