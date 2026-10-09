@@ -1,7 +1,6 @@
-
 import java.util.*;
 
-public class Syllabus_task5 {
+public class SyllabusTask_Task5_task5 {
     static class BankAccount {
         private int balance = 0;
 
@@ -36,3 +35,5 @@ public class Syllabus_task5 {
         System.out.println(account.getBalance());
     }
 }
+
+

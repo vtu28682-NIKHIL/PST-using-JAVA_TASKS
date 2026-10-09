@@ -11,7 +11,7 @@ class Reading {
     }
 }
 
-public class streamanalyticssystem {
+public class SyllabusTask_Task3_streamanalyticssystem {
 
     public static void main(String[] args) {
 
@@ -24,6 +24,7 @@ public class streamanalyticssystem {
         List<Reading> readings = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
+
             String sensorId = sc.next();
             double temperature = sc.nextDouble();
 
@@ -61,3 +62,5 @@ public class streamanalyticssystem {
         sc.close();
     }
 }
+
+

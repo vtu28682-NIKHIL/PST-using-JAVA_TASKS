@@ -1,8 +1,6 @@
-package Syllabus_Tasks;
-
 import java.util.*;
 
-public class Syllabus_task6 {
+public class SyllabusTask_Task6_task6 {
     static abstract class Vehicle {
         abstract double calculateFare(double distance);
     }
@@ -61,3 +59,5 @@ public class Syllabus_task6 {
         }
     }
 }
+
+

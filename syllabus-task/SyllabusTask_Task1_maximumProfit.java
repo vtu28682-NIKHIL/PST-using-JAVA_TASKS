@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class maximumprofit {
+public class SyllabusTask_Task1_maximumProfit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -23,8 +23,10 @@ public class maximumprofit {
             }
         }
 
-        System.out.println("max sum is : " + maxSum);
+        System.out.println(maxSum);
 
         sc.close();
     }
 }
+
+
