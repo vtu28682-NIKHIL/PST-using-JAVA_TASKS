@@ -1,4 +1,4 @@
-public class AlternatingCharacters {
+public class Week5_Task1_AlternatingCharacters {
     public static int alternatingCharacters(String s) {
         int deletions = 0;
 
